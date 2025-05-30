@@ -3,8 +3,8 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = <YOUR APP NAME HERE>
-primary_region = <YOUR REGION HERE>
+app = "tony-grocy"
+primary_region = "hkg"
 
 [build]
 
